@@ -13,5 +13,5 @@ git
 Generar tu Public Key:
 ssh-keygen
 
-
+git init 
 arrancar el proyecto
