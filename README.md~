@@ -1,5 +1,4 @@
 Programacion_Web
-/Esto es una rama/dev
 ================
 
 #Este es un repository para la clase de Nancy
@@ -14,8 +13,5 @@ git
 Generar tu Public Key:
 ssh-keygen
 
-git init 
+git init
 arrancar el proyecto
-
-
-cat ~/.shh/id_rsa.pub
